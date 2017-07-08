@@ -1,2 +1,3 @@
 # meu_projeto_versionado
-teste
+uma descrição teste
+uma nova linha
